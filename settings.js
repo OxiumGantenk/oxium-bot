@@ -25,8 +25,8 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "OxiumBotོ" //namabot kalian
-global.ownername= "Oxium" //nama kalian
+global.botname = "OxiumBot" //namabot kalian
+global.ownername= "Jaki" //nama kalian
 global.myweb ="-" //bebas asal jan hapus
 global.youtube = "-" //bebas asal jan hapus
 global.myweb2 = "-" //bebas
@@ -40,14 +40,14 @@ global.ownernomerr = "+62895602954335" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© OxiumBotོ' //sticker wm ubah
+global.packname = '© OxiumBot' //sticker wm ubah
 global.author = 'Di Buat Oleh Oxium' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
     premium: "Infinity",
-    free: 10000000
+    free: 1000
 }
 
 global.adventureRPG = 'https://telegra.ph/file/30bef343159005b622ced.jpg'
